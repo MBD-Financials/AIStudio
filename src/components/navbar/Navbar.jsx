@@ -38,6 +38,8 @@ const Navbar = () => {
             <p><a href="#possibility">May AI</a></p>
             <p><a href="#features">Case Studies</a></p>
             <p><a href="#blog">Library</a></p>
+            <p><a href="https://hey-may-ai.netlify.app/">AI Image Generator</a></p>
+            <p><a href="https://mbd-financials-super-ai.vercel.app/">May AI Assistant</a></p>
           </div>
           <div className="gpt3__navbar-menu_container-links-sign">
             <p>Sign in</p>
